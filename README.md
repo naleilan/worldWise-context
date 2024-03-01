@@ -2,6 +2,6 @@
 
 using contextAPI
 
-for run:
-npm run server
-npm run dev
+### for run:
+* npm run server
+* npm run dev
